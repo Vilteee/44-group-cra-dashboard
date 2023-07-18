@@ -1,0 +1,9 @@
+.square {
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.square-green {
+    box-sizing: border-box;
+    background-color: rgb(21, 210, 160);
+}
